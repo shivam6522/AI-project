@@ -1,6 +1,9 @@
-*No input <br/>
-*Output = path cost on the first line. And 8x8 matrix with 8 queens places in each row such that no any two of them are under attack
+*No input
+
+*Output = path cost on the first line. And 8x8 matrix with 1 queen placed in each row such that not a single queen is under attack by any other 7 queens.
+
 example:-
+
 Cost = 8
 
 1 0 0 0 0 0 0 0
