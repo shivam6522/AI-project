@@ -1,0 +1,22 @@
+**Input -: no of students(no of group is taken to be 3)
+**Output -: group representatives, fitness value, and students assigned to the groups.
+
+**Example -:
+
+Enter no. of students:
+10
+--group 1:53 group 2:27 group 3 : 84
+fitness : 39 ---
+GROUP-1:---
+student 5 : 53
+student 8 : 50
+GROUP-2:----
+student 4 : 19
+student 6 : 31
+student 7 : 27
+GROUP-3:---
+student 0 : 91
+student 1 : 84
+student 2 : 92
+student 3 : 80
+student 9 : 79
