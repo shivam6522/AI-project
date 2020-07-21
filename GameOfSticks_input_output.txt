@@ -1,0 +1,89 @@
+----------WELCOME TO THE GAME OF STICKS----------
+
+Rules of the game are
+
+♦ It is a 2-player game.
+♦ There is a heap of sticks on a board, say n. (where n is given externally)
+♦ Each player picks up sticks alternatively.
+♦ On their turn, each player has to pick at least 1 stick and he can pick at most 3 sticks.
+♦ The one who has to pick the final stick will be the loser.
+♦ First turn will be randomly decided with toss.
+
+ENTER YOUR CHOICE OF GAME MODE-:
+1. AI vs AI
+2. AI vs human
+3. to exit
+1
+enter the number of sticks for the game >1 or <32 or 53-: 25
+-------Its time for the toss------
+
+player 1 won the toss
+
+player 1's move
+
+player 1 picked 3 sticks
+no of sticks left =  22
+
+player 2's move        
+
+player 2 picked 1 sticks
+no of sticks left =  21
+
+player 1's move        
+
+player 1 picked 2 sticks
+no of sticks left =  19
+
+player 2's move
+
+player 2 picked 2 sticks
+no of sticks left =  17
+
+player 1's move
+
+player 1 picked 1 sticks
+no of sticks left =  16
+
+player 2's move
+
+player 2 picked 3 sticks
+no of sticks left =  13
+
+player 1's move
+
+player 1 picked 3 sticks
+no of sticks left =  10
+
+player 2's move
+
+player 2 picked 1 sticks
+no of sticks left =  9
+
+player 1's move
+
+player 1 picked 2 sticks
+no of sticks left =  7
+
+player 2's move
+
+player 2 picked 2 sticks
+no of sticks left =  5
+
+player 1's move
+
+player 1 picked 2 sticks
+no of sticks left =  3
+
+player 2's move
+
+player 2 picked 2 sticks
+no of sticks left =  1
+
+player 2 is the winner
+
+ENTER YOUR CHOICE OF GAME MODE-:
+1. AI vs AI
+2. AI vs human
+3. to exit
+3
+exiting........
