@@ -1,0 +1,18 @@
+**sample input/output 1:-
+
+Enter the number of vertices
+4
+Enter the Weighted Matrix for the graph
+0 10 15 20
+10 0 35 25
+15 35 0 30
+20 25 30 0
+Enter the source 
+0
+Travelling Salesman path is:--
+[0, 2, 3, 1, 0]
+
+Total path cost  is 80
+
+**sample input/output 2:-
+
