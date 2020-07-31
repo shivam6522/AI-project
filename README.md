@@ -30,10 +30,10 @@ S
 - Min cost tour on the first line.<br/>
 - Path cost on the second line.
 
-### TSP.java
+### [TSP.java](TSP.java)
 - Actual implementation of TSP using A* in java.
 
-### HeuristicFunction.java
+### [HeuristicFunction.java](HeuristicFunction.java)
 - Heuristic function used in TSP.java defined here.
 
 ## 2. [8queens](https://en.wikipedia.org/wiki/Eight_queens_puzzle) using UCS algo
@@ -51,7 +51,7 @@ S
 - path cost which is = 8.
 - correct placement of 8 queens in 8*8 matrix such that no two of them attack one another.
 
-### 8queensUcs.cpp
+### [8queensUcs.cpp](8queensUcs.cpp)
 - Implementation of 8queens problem in c++.
 
 ## 3. [Genetics](https://en.wikipedia.org/wiki/Genetic_algorithm)
@@ -84,7 +84,7 @@ N
 - Fitness value of the solution.
 - students and their marks belonging to each group.
 
-### gen.cpp
+### [gen.cpp](gen.cpp)
 - Implementation of above genetic problem in c++.
 
 ## 4. [GameOfSticks](https://en.wikipedia.org/wiki/Nim) using Min/Max graph with alpha beta prunning
@@ -106,5 +106,5 @@ If choosed human vs Ai then no of sticks picked up by you in each move.
 - Each move and sticks left after that for both the player.<br/>
 - Winner of the game.
 
-### minMaxAlphaBetaGame.py
+### [minMaxAlphaBetaGame.py](minMaxAlphaBetaGame.py)
 - Implementation of GameOfSticks in python.
