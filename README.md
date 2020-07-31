@@ -38,7 +38,7 @@ Heuristic function used in TSP.java defined here.
 
 ## 2. [8queens](https://en.wikipedia.org/wiki/Eight_queens_puzzle) using UCS algo
 
-## 3. [Genetics](https://en.wikipedia.org/wiki/Genetic_algorithm) using UCS algo
+## 3. [Genetics](https://en.wikipedia.org/wiki/Genetic_algorithm)
 
 ## 4. [GameOfSticks](https://en.wikipedia.org/wiki/Nim) using Min/Max graph with alpha beta prunning
 ### Problem
