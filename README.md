@@ -11,6 +11,9 @@
 - **Edge-cost:** distance between the cities represented by the nodes, use this cost to calculate g(n).<br/>
 - **h(n):** distance to the nearest unvisited city from the current city + estimated distance to travel all the unvisited cities ([Kruskal](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) MST heuristic used here) + nearest distance from an unvisited city to the start city. Note that this is an admissible heuristic function
 
+### Implementation
+- At first we add source node to the priority queue with path  cost 0 and then remove it and add it's successors to the queue based on their priority which is f(n) = g(n)+h(n) i.e node having lesser f(n) value has higher priority. Then we select the next node for our solution path after the source node by dequeing it from queue and add its cost to the path cost, we keep repeating this process for every node in the queue until the queue is empty. We update the f(n) value of a node already present in queue if it changes using. And at last when the queue is empty we add teh path cost from last node to source node in our solution.
+
 ### Input
 N<br/>
 City1 City2 City3 � CityN<br/>
